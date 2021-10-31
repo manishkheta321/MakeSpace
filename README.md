@@ -1,3 +1,4 @@
 # MakeSpace
 
-to run, execute: npm start xyz.txt
+Execute:
+npm start xyz.txt
